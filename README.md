@@ -12,20 +12,37 @@ Pregunta a resolver con el análisis de datos:
 Datos y fuentes a utilizar:
 
 <p style="text-align: justify">
+  
 - Estadisticas acerca de cuantos adolescentes se drogan
+
+  
 <p style="text-align: justify">
+  
 - ¿Cual droga consumen más?
+
+  
 <p style="text-align: justify">
+  
 - Sus motivos para consumir
+
+  
 <p style="text-align: justify">
+  
 -Si tienen alguna situacion familiar que los orille a eso
 
 <p style="text-align: justify">
+  
 Las fuentes a utilizar serian:
+
 <p style="text-align: justify">
+  
 - Pagina oficial de la Comision Nacional Contra las adicciones
+  
 <p style="text-align: justify">
+  
 - Organizacion Mundial de la Salud
+  
 <p style="text-align: justify">
+  
 - INEGI
 
